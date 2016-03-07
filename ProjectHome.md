@@ -1,0 +1,1 @@
+Portlet displays the content of another remote web site.
